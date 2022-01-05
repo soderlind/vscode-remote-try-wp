@@ -37,7 +37,7 @@ When the container has started, you can try out the following:
    - Username: admin
    - Password: password
 
-You'll see that the [vscode-remote-try-wp-plugin](index.php) plugin is [installed and activated](http://localhost:8080/wp-admin/plugins.php).
+You'll see that the [vscode-remote-try-wp](index.php) plugin is [installed and activated](http://localhost:8080/wp-admin/plugins.php).
 
 ## WordPress Multisite or theme
 
