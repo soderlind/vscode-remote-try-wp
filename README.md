@@ -38,13 +38,13 @@ When the container has started, you can try out the following:
 - Go to http://localhost:8080/wp-admin/
   - Username: admin
   - Password: password
-- or, if running in GitHub Codespaces (I haven't test this myself), go to https://CODESPACE_NAME-8080.githubpreview.dev
+- or, if running in GitHub Codespaces (I haven't tested this myself), go to https://CODESPACE_NAME-8080.githubpreview.dev
   - Username: admin
   - Password: password
 
 You'll see that the [vscode-remote-try-wp](index.php) plugin is [installed and activated](http://localhost:8080/wp-admin/plugins.php).
 
-## WordPress Multisite or theme
+### WordPress Multisite or theme
 
 You can modify the container by editing the [.devcontainer/.env](.devcontainer/.env) file.
 
