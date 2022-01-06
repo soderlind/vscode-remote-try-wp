@@ -36,7 +36,7 @@ When the container has started, you can try out the following:
 - Go to http://localhost:8080/wp-admin/
   - Username: admin
   - Password: password
-- or, if running in GitHub Codespaces (I haven't test this myself), go to https://CODESPACE_NAME-8080.githubpreview.dev
+- or, if running in GitHub Codespaces (I haven't tested this myself), go to https://CODESPACE_NAME-8080.githubpreview.dev
   - Username: admin
   - Password: password
 
