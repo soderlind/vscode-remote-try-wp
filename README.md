@@ -42,7 +42,7 @@ When the container has started, you can try out the following:
 
 You'll see that the [vscode-remote-try-wp](index.php) plugin is [installed and activated](http://localhost:8080/wp-admin/plugins.php).
 
-## WordPress Multisite or theme
+### WordPress Multisite or theme
 
 You can modify the container by editing the [.devcontainer/.env](.devcontainer/.env) file.
 
